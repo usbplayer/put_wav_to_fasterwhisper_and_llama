@@ -1,0 +1,2 @@
+# put_wav_to_fasterwhisper_and_llama
+一个脚本把文件夹内音频文件先转译再翻译
